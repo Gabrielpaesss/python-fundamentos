@@ -1,14 +1,14 @@
-# 🐍 Python Fundamentos
+# 🐍 Python Fundamentals
 
-Este repositório contém exercícios e pequenos projetos desenvolvidos para praticar lógica de programação e fundamentos em Python.
+This repository contains exercises and small projects developed to practice programming logic and Python fundamentals.
 
-## 📚 Conteúdo Atual
+## 📚 Current Content
 
-- 📌 Calculadora simples (refatorada com função)
-- 📌 Cálculo de média (refatorado com função)
+- 📌 Simple calculator (refactored using functions)
+- 📌 Grade average calculator (refactored using functions)
 
-## 🎯 Objetivo
+## 🚀 Next Steps
 
-Fortalecer a base em programação antes de avançar para automações e projetos mais complexos.
-
-
+- Add more exercises
+- Improve organization
+- Apply better coding practices
