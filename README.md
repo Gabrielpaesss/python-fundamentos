@@ -4,7 +4,8 @@ Este repositório contém exercícios e pequenos projetos desenvolvidos para pra
 
 ## 📚 Conteúdo Atual
 
-- 📌 Calculadora simples (operações básicas)
+- 📌 Calculadora simples (refatorada com função)
+- 📌 Cálculo de média (refatorado com função)
 
 ## 🎯 Objetivo
 
