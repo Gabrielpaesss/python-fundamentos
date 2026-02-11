@@ -1,15 +1,20 @@
 # Programa para calcular a média de duas notas
 
-print("=== Cálculo de Média ===")
+def calcular_media():
+    print("=== Cálculo de Média ===")
 
-nota1 = float(input("Digite a primeira nota: "))
-nota2 = float(input("Digite a segunda nota: "))
+    nota1 = float(input("Digite a primeira nota: "))
+    nota2 = float(input("Digite a segunda nota: "))
 
-media = (nota1 + nota2) / 2
+    media = (nota1 + nota2) / 2
 
-print("Média final:", media)
+    print("Média final:", media)
 
-if media >= 7:
-    print("Aluno aprovado!")
-else:
-    print("Aluno reprovado.")
+    if media >= 7:
+        print("Aluno aprovado!")
+    else:
+        print("Aluno reprovado.")
+
+
+if __name__ == "__main__":
+    calcular_media()
