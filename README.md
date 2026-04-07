@@ -1,13 +1,13 @@
-# 🐍 Python Fundamentals
+ Python Fundamentals
 
 This repository contains exercises and small projects developed to practice programming logic and Python fundamentals.
 
-## 📚 Current Content
+ Current Content
 
-- 📌 Simple calculator (refactored using functions)
-- 📌 Grade average calculator (refactored using functions)
+  Simple calculator (refactored using functions)
+  Grade average calculator (refactored using functions)
 
-## 🚀 Next Steps
+ Next Steps
 
 - Add more exercises
 - Improve organization
